@@ -1,4 +1,4 @@
-# DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction[<a href="https://arxiv.org/abs/1905.10711">Arxiv</a>]
+# DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction[<a href="https://arxiv.org/abs/1905.10711">Arxiv</a>][<a href="https://weiyuewang.github.io/papers/neurips_2019_supp.pdf">Supp</a>]
 ![result](images/result.png)
 Code will be released upon publication.
 
