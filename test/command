@@ -1,0 +1,47 @@
+cp -r 65_0.0_sep/02933112 65_0.0_comb/ &
+cp -r 65_0.0_sep/03211117 65_0.0_comb/ &
+cp -r 65_0.0_sep/03691459 65_0.0_comb/ &
+cp -r 65_0.0_sep/04090263 65_0.0_comb/ &
+cp -r 65_0.0_sep/04530566 65_0.0_comb/ &
+cp -r 65_0.0/02691156 65_0.0_comb/ &
+cp -r 65_0.0/02828884 65_0.0_comb/ &
+cp -r 65_0.0/02958343 65_0.0_comb/ &
+cp -r 65_0.0/03001627 65_0.0_comb/ &
+cp -r 65_0.0/03636649 65_0.0_comb/ &
+cp -r 65_0.0/04256520 65_0.0_comb/ &
+cp -r 65_0.0/04379243 65_0.0_comb/ &
+cp -r 65_0.0/04401088 65_0.0_comb/ &
+
+
+
+cp -r camest_65_0.0_sep/02933112 camest_65_0.0_comb/ &
+cp -r camest_65_0.0_sep/03211117 camest_65_0.0_comb/ &
+cp -r camest_65_0.0_sep/03691459 camest_65_0.0_comb/ &
+cp -r camest_65_0.0_sep/04090263 camest_65_0.0_comb/ &
+cp -r camest_65_0.0_sep/04530566 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/02691156 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/02828884 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/02958343 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/03001627 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/03636649 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/04256520 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/04379243 camest_65_0.0_comb/ &
+cp -r camest_65_0.0/04401088 camest_65_0.0_comb/ &
+
+
+
+cp -r 65_0.0_sep/02933112 65_0.0_comb/ &
+cp -r 65_0.0_sep/04090263 65_0.0_comb/ &
+cp -r 65_0.0/02691156 65_0.0_comb/ &
+cp -r 65_0.0/02828884 65_0.0_comb/ &
+cp -r 65_0.0/02958343 65_0.0_comb/ &
+cp -r 65_0.0/03001627 65_0.0_comb/ &
+cp -r 65_0.0/03636649 65_0.0_comb/ &
+cp -r 65_0.0/04256520 65_0.0_comb/ &
+cp -r 65_0.0/04379243 65_0.0_comb/ &
+cp -r 65_0.0/04401088 65_0.0_comb/ &
+cp -r 65_0.0/04530566 65_0.0_comb/ &
+cp -r 65_0.0/03211117 65_0.0_comb/ &
+cp -r 65_0.0/03691459 65_0.0_comb/ &
+
+
