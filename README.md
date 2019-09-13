@@ -1,4 +1,5 @@
 # DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
+Please report bugs [here](https://github.com/Xharlie/DISN) and we will publish the bug fix and the latest [updates](https://github.com/Xharlie/DISN)
 Please cite our paper
 [DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (NeurIPS 2019)](https://arxiv.org/abs/1905.10711)
 
