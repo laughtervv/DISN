@@ -21,7 +21,7 @@ Code contact: [Qiangeng Xu*](https://xharlie.github.io/) and [Weiyue Wang*](http
     pip install trimesh==2.37.20
     cd {DISN}
     mkdir checkpoint
-    get checkpoint
+    cd checkpoint
     wget https://www.dropbox.com/s/2ts7qc9w4opl4w4/SDF_DISN.tar?dl=0
     tar -xvzf SDF_DISN.tar?dl=0
     rm -rf SDF_DISN.tar?dl=0
