@@ -1,7 +1,7 @@
 # DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 Please report bugs [here](https://github.com/Xharlie/DISN) and we will publish the bug fix and the latest [updates](https://github.com/Xharlie/DISN)
 
-* ### We just released a rendering [datasets](https://github.com/Xharlie/ShapenetRender_more_variation) with more view variations 
+* ### We just released a rendering [datasets](https://github.com/Xharlie/ShapenetRender_more_variation) with more view variations that contains RGB, albedo, depth and normal 2D images.
 
 Please cite our paper
 [DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (NeurIPS 2019)](https://arxiv.org/abs/1905.10711)
