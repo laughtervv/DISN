@@ -68,7 +68,9 @@ Code contact: [Qiangeng Xu*](https://xharlie.github.io/) and [Weiyue Wang*](http
   unzip ShapeNetCore.v1.zip -d {your mesh_dir}
   ```
   
-* ### Generate sdf files and the reconstructed models from the sdf file (Please expect the script to run for several hours)
+* ### Prepare SDF files and marching cube ground truth model
+To directly download the generated sdf and model, follow the instruction [here](https://github.com/Xharlie/DISN)
+To generate sdf files and the reconstructed models by yourself (Please expect the script to run for several hours), please execute the following command lines
     Our data preparation used this paper [Vega: non-linear fem deformable object simulator](http://run.usc.edu/vega/SinSchroederBarbic2012.pdf). Please also cite it if you use our code to generate sdf files
   ```
   mkdir log
