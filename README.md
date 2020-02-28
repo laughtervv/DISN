@@ -7,11 +7,15 @@ Please cite our paper
 [DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (NeurIPS 2019)](https://arxiv.org/abs/1905.10711)
 
 ``` 
-@inProceedings{xu2019disn,
-  title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-  author={Wang, WeiyueXu and Xu, Qiangeng and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
-  booktitle={NeurIPS},
-  year={2019}
+@incollection{NIPS2019_8340,
+title = {DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+author = {Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {492--502},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/8340-disn-deep-implicit-surface-network-for-high-quality-single-view-3d-reconstruction.pdf}
 }
 ``` 
 Code contact: [Qiangeng Xu*](https://xharlie.github.io/) and [Weiyue Wang*](https://weiyuewang.github.io/)
